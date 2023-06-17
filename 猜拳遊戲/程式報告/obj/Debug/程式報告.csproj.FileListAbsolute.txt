@@ -1,0 +1,10 @@
+C:\Users\李冠弘\Desktop\程式報告\程式報告\bin\Debug\程式報告.exe.config
+C:\Users\李冠弘\Desktop\程式報告\程式報告\bin\Debug\程式報告.exe
+C:\Users\李冠弘\Desktop\程式報告\程式報告\bin\Debug\程式報告.pdb
+C:\Users\李冠弘\Desktop\程式報告\程式報告\obj\Debug\程式報告.csprojAssemblyReference.cache
+C:\Users\李冠弘\Desktop\程式報告\程式報告\obj\Debug\程式報告.Form1.resources
+C:\Users\李冠弘\Desktop\程式報告\程式報告\obj\Debug\程式報告.Properties.Resources.resources
+C:\Users\李冠弘\Desktop\程式報告\程式報告\obj\Debug\程式報告.csproj.GenerateResource.cache
+C:\Users\李冠弘\Desktop\程式報告\程式報告\obj\Debug\程式報告.csproj.CoreCompileInputs.cache
+C:\Users\李冠弘\Desktop\程式報告\程式報告\obj\Debug\程式報告.exe
+C:\Users\李冠弘\Desktop\程式報告\程式報告\obj\Debug\程式報告.pdb

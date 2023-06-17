@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\10910111-0930_3\10910111-0930_3\bin\Debug\10910111-0930_3.exe.config
+C:\Users\User\Desktop\10910111-0930_3\10910111-0930_3\bin\Debug\10910111-0930_3.exe
+C:\Users\User\Desktop\10910111-0930_3\10910111-0930_3\bin\Debug\10910111-0930_3.pdb
+C:\Users\User\Desktop\10910111-0930_3\10910111-0930_3\obj\Debug\10910111-0930_3.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\10910111-0930_3\10910111-0930_3\obj\Debug\_10910111_0930_3.Form1.resources
+C:\Users\User\Desktop\10910111-0930_3\10910111-0930_3\obj\Debug\_10910111_0930_3.Properties.Resources.resources
+C:\Users\User\Desktop\10910111-0930_3\10910111-0930_3\obj\Debug\10910111-0930_3.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\10910111-0930_3\10910111-0930_3\obj\Debug\10910111-0930_3.exe
+C:\Users\User\Desktop\10910111-0930_3\10910111-0930_3\obj\Debug\10910111-0930_3.pdb
